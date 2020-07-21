@@ -1,3 +1,3 @@
 # test
 test/repos
-for testing the repo
+for testing the reposit
